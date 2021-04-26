@@ -1,0 +1,25 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1619349852535'); /* IE9 */
+  src: url('iconfont.eot?t=1619349852535#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAPwAAsAAAAAB+gAAAOhAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDBgqDSIMbATYCJAMMCwgABCAFhG0HQBvrBsgehXHDXULEZHLl/vUjHv7b7/f7zMy9iEgySXSTRhKNJBoJ0gsNIqsTunwN+fefvYT3f23aR1KBulAzkqZmSpOB0ugjs6pyEvOT+q23lRKs/Z9jpksfYH6bzaWaopuS9gY4HtCAKhJwfAdyQH4fsKH7WUyg3bRExG55bSs4KMxWgbiTJQEcMhKlIT60CnXFwALxDJXWtIC8B+Ap+P34D9pwAEmVwex4fFumh8JfEZ+7qen/G648BLCmU4EfRsYKUIibSs0ZKvKsoLSrQro5vFaENJX9f5OAqYnrjf7jJaIGM7YTLKAgXRTLoRD86magyPXrqMn3Anwn7ODGRRr3CuZd3aTT54Kmx3lv2AAaBxYdIogZvusSfA/5G1xo27/ZG1YvJIh1W+PXEjMOLToADYkhtr4wcczCZ5sDtL+e8yM3nI9y3XeRoGZc6J2+2stl7Vofat061nnRzQSkpZK8dp/2cSJmvKSK7KLnj58Hw3RvWOMtf9UauP/+suPFi/Znz1p3PM/b8FxoP/es/d6zttXP2/b86lj08k8394sKVMGPsaTaY3zUfA8t6eWvgmoy8hcYj1bQGppVachV3ZNcvNZHr/dydYK1R0tCa1VhV5g2bTCmpiZmIL0zZXsKc43xeDioGngtMAXIjtfLx27/Xfzcb/aog+/x1qQp7/Wm2W5tnXx4c2FRcxifUBf8Irqycj5JErWPCtnfLLyJ39LGQnmaunk/JseQRIuu7RJv7Fz5Qqg1rp1/9n3aPnTmwDG6vj2vZ57jqIMKFbO8CIMAzXkc1cf45AfUxN/4Nz7/81o44Jo76sDSAD8PKb1oairQTQdab1Ib/DRWx7yicUxpLgrTYRra7CFlkkBrO35VIvR7PVw81DmW0GoogaTFFGStZpAFuwKVDutQa7UB7ZZVDO8wQEGJ4ggsmQMQeh2DpNt3yHrdRxbsK6gM+wW13qCg3Ul4TthhLmSmREECRnpuaAIn6yxm0ZZjJoxvRtIYo6CkOQG+HSk22c4l85q8vwKZkTJFF9tYSYuxyImKxcSVw3LIaLRwVsUygnSYH8bYmq1Wi1V34nUWEzB2KBABhuhxhkzAkelYmIlecYwp/HwzRDKGkUBpyKlSt0MUNnL5nGQ8TQdkhdDcKedWjrEZS6KFYSKOSGFhwikHFWK0PBYca3W9EYgOxhse4LLKpqZCYlchv7zY9H5LoJ2ZmoMkKIKGzkvvYZJNgv14WbAoyAwAAAAA') format('woff2'),
+  url('iconfont.woff?t=1619349852535') format('woff'),
+  url('iconfont.ttf?t=1619349852535') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1619349852535#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-iconfontmima:before {
+  content: "\e623";
+}
+
+.icon-xiaoren:before {
+  content: "\e65a";
+}
+
